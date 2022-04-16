@@ -1,0 +1,3 @@
+Jira="sl.BF3tfLGp3EO9boVEGHvb5ajzogRqPTFWtGpIWOlSh2ECZ269DbiHsHbGm1w9Lds9cvRuhfHECp4Pwu1nmFEMf2sJ14JU1A1seA2NW1c9XWJ-MK3xcNLTRaMVnvIwQQKLb9mXG6IhVoUh"
+class TransferData:
+    def upload_file(self, AxsTkn)
